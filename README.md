@@ -2,7 +2,7 @@
 
 A jewellery store static website which is responsive and contains css animations.
 
-![screenshot](/images/ss.jpg)
+![screenshot](/images/ss.JPG)
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ A computer and a browser of your choice.
 
 ## Live Demo
 
-View website [here](http://www.imbalkur.io/raziajewels)
+View website [here](http://www.imbalkur.io/raziajewels/)
 
 ## Built With
 
