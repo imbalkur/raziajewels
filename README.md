@@ -14,7 +14,7 @@ A computer and a browser of your choice.
 
 ## Live Demo
 
-View website [here](http://www.imbalkur.io/raziajewels/)
+View website [here](https://imbalkur.github.io/raziajewels/)
 
 ## Built With
 
